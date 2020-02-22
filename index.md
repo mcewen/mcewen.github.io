@@ -18,6 +18,6 @@ Can you guess what happened?  I sorta burned out after a while of trying, trying
 
 I finally had an ephiany one Saturday while simultaneously completing two tasks on my seemingly endless checklist of tasks.  I was listening to Greg McKeown's book *[Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18077875-essentialism)*.  In it he described to idea of 
 >“Essentialism is not about how to get more things done; it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential.”
->― Greg Mckeown, Essentialism: The Disciplined Pursuit of Less 
+> ―Greg Mckeown, Essentialism: The Disciplined Pursuit of Less 
 
 Posts will appear after this file. 
