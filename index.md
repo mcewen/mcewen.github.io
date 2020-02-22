@@ -1,7 +1,8 @@
 ## Kinda Sciency
 
 Hello my name is Dusti and I welcome to my blog *Kinda Sciency*.  
-![Image of Dusti](https://engineering.usu.edu/be/images/people/alumni/Gerald-McEwen.JPG)
+![Image of Dusti](https://engineering.usu.edu/be/images/people/alumni/Gerald-McEwen.JPG)!
+
 I'm on a quest to simplify my life in 66 days.  Yup, to go on a journey of decluttering my life in about a two months timeframe.
 
 Sounds fun right?
