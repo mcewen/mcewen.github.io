@@ -1,7 +1,7 @@
 ## Kinda Sciency
 
-Hello and welcome to my blog *Kinda Sciency*.  
-
+Hello my name is Dusti and I welcome to my blog *Kinda Sciency*.  
+![Image of Dusti](https://engineering.usu.edu/be/images/people/alumni/Gerald-McEwen.JPG)
 I'm on a quest to simplify my life in 66 days.  Yup, to go on a journey of decluttering my life in about a two months timeframe.
 
 Sounds fun right?
@@ -16,6 +16,4 @@ Can you guess what happened?  I sorta burned out after a while of trying, trying
 
 I finally had an ephiany one Saturday while simultaneously completing two tasks on my seemingly endless checklist of tasks.  I was listening to Greg McKeown's book *[Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18077875-essentialism)*.  In it he described to idea of a disciplined approach to chosing to do less to get more and enstead focus on fewer things for a better happier output.
 
-
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Posts will appear after this file. 
